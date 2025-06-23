@@ -1,9 +1,9 @@
 export const metadata = {
-  title: "Genesis Fitness Club",
-  description: "Online fitness coaching – Everything has a beginning.",
+  title: 'Genesis Fitness Club',
+  description: 'Everything has a beginning.',
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body>{children}</body>
