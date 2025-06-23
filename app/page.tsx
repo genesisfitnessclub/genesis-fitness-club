@@ -1,0 +1,1 @@
+// Homepage component (Next.js App Router)

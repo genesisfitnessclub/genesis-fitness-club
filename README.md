@@ -1,1 +1,2 @@
-# genesis-fitness-club
+# Genesis Fitness Club
+Online Fitness Coaching Platform
